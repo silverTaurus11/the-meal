@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meal</string>
+    <string name="search_github_user">Search Meal</string>
+    <string name="error_no_internet_connection_message">No Internet Connection</string>
+    <string name="error_cant_get_information">Can\'t get the information, please try again.</string>
+    <string name="welcome_greeting">Welcome to My Application</string>
+    <string name="search">Search</string>
+    <string name="category">Category</string>
+    <string name="from">From</string>
+    <string name="tags">Tags</string>
+    <string name="intructions">Intructions</string>
+</resources>
